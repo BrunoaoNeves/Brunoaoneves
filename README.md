@@ -1,16 +1,18 @@
-## Hi there 👋
+Sou estudante de *Análise e Desenvolvimento de Sistemas (ADS)*, apaixonado por tecnologia e aprendizado constante. Estou iniciando minha jornada em programação e desenvolvimento de projetos. 🚀
 
-<!--
-**BrunoaoNeves/Brunoaoneves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+- Estudante de ADS 💻
+- Aprendendo *Python, Git e GitHub*
+- Apaixonado por tecnologia e inovação
+- Sempre buscando novos desafios e conhecimento
 
-Here are some ideas to get you started:
+## Tecnologias que estou estudando
+- Python 🐍
+- HTML & CSS 🌐
+- JavaScript ⚡
+- Git & GitHub 🗂️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Me conecte
+- Email: [brunooliveiraneves82@gmsil.com]
+
+> “Aprender é a única coisa que a mente nunca se cansa, nunca teme e nunca se arrepende.” – Leonardo da Vinci
